@@ -1,0 +1,10 @@
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\bin\Debug\OPN1LW v1.2.exe.config
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\bin\Debug\OPN1LW v1.2.exe
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\bin\Debug\OPN1LW v1.2.pdb
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW v1.2.csprojResolveAssemblyReference.cache
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW_v1._2.Form1.resources
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW_v1._2.Properties.Resources.resources
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW v1.2.csproj.GenerateResource.Cache
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW v1.2.exe
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW v1.2.pdb
+c:\users\gaming pc\documents\visual studio 2012\Projects\OPN1LW v1.2\OPN1LW v1.2\obj\Debug\OPN1LW_v1._2.SimulationForm.resources
